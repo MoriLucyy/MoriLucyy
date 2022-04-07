@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Lucy.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucyCoderr&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MoriLucyy&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucyCoderr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoriLucyy)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋, I'm Lucy.
 #### Design and Development
